@@ -1,0 +1,14 @@
+various old stuff
+
+------------------------
+recipient_update
+
+recipient_update is some scripts to generate a postfix recipientmap from a textfile with mailaddresses.
+we used this to update the recipient map on our frontend smtp Gateway.
+It contains a powershellscript to generate the textfile from activedirectory mail enabled useraccounts
+
+
+lolidown
+
+lolidown is a downloadscipt for lolipower.org
+it allows for whole series to be downloaded sequentialy.
