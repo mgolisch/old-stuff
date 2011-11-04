@@ -1,0 +1,5 @@
+C:\autoimage-vs\autoimage-data\bin\Debug\autoimage-data.dll
+C:\autoimage-vs\autoimage-data\bin\Debug\autoimage-data.pdb
+C:\autoimage-vs\autoimage-data\obj\Debug\ResolveAssemblyReference.cache
+C:\autoimage-vs\autoimage-data\obj\Debug\autoimage-data.dll
+C:\autoimage-vs\autoimage-data\obj\Debug\autoimage-data.pdb

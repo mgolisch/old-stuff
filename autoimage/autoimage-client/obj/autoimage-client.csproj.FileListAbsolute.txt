@@ -1,0 +1,6 @@
+C:\autoimage-vs\autoimage-client\obj\Debug\ResolveAssemblyReference.cache
+C:\autoimage-vs\autoimage-client\bin\Debug\autoimage-client.exe
+C:\autoimage-vs\autoimage-client\bin\Debug\autoimage-client.pdb
+C:\autoimage-vs\autoimage-client\obj\Debug\autoimage-client.exe
+C:\autoimage-vs\autoimage-client\obj\Debug\autoimage-client.pdb
+C:\autoimage-vs\autoimage-client\bin\Debug\autoimage-client.exe.config

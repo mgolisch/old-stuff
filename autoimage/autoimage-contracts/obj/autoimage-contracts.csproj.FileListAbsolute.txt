@@ -1,0 +1,5 @@
+C:\autoimage-vs\autoimage-contracts\bin\Debug\autoimage-contracts.dll
+C:\autoimage-vs\autoimage-contracts\bin\Debug\autoimage-contracts.pdb
+C:\autoimage-vs\autoimage-contracts\obj\Debug\ResolveAssemblyReference.cache
+C:\autoimage-vs\autoimage-contracts\obj\Debug\autoimage-contracts.dll
+C:\autoimage-vs\autoimage-contracts\obj\Debug\autoimage-contracts.pdb

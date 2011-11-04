@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.DebuggingService>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService>
+  <MonoDevelop.Ide.Workbench ActiveDocument="autoimage-client/Utils.cs" ctype="Workbench">
+    <Files>
+      <File FileName="autoimage-client/AIService.cs" Line="1" Column="1" />
+      <File FileName="autoimage-client/app.config" Line="1" Column="1" />
+      <File FileName="autoimage-service/App_Code/Service.cs" Line="1" Column="1" />
+      <File FileName="autoimage-service/App_Code/Config.cs" Line="1" Column="1" />
+      <File FileName="autoimage-client/Config.cs" Line="1" Column="1" />
+      <File FileName="autoimage-client/Imager.cs" Line="1" Column="1" />
+      <File FileName="autoimage-client/NotifyData.cs" Line="1" Column="1" />
+      <File FileName="autoimage-client/Program.cs" Line="1" Column="1" />
+      <File FileName="autoimage-client/Utils.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

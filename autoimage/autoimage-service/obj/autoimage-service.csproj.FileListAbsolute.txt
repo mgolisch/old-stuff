@@ -1,0 +1,7 @@
+C:\autoimage-vs\autoimage-service\bin\Global.asax
+C:\autoimage-vs\autoimage-service\bin\web.config
+C:\autoimage-vs\autoimage-service\bin\autoimage-service.dll
+C:\autoimage-vs\autoimage-service\bin\autoimage-service.pdb
+C:\autoimage-vs\autoimage-service\obj\Debug\ResolveAssemblyReference.cache
+C:\autoimage-vs\autoimage-service\obj\Debug\autoimage-service.dll
+C:\autoimage-vs\autoimage-service\obj\Debug\autoimage-service.pdb
